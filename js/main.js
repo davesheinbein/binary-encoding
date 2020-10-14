@@ -16,4 +16,5 @@ function convertBinaryToText() {
 	// 	output.value +=
 	// 		input[i].charCodeAt(0).toString(2) + ' ';
 	// }
+	// 
 }
